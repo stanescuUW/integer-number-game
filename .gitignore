@@ -1,3 +1,7 @@
 *.olean
 /_target
 /leanpkg.path
+/scratch/*
+/html/*
+./locale
+/locale
