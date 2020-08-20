@@ -2,7 +2,6 @@ import tactic
 import data.rat
 import data.real.basic
 import data.real.irrational
-import data.zmod.basic
 import game.basic.level02
 
 namespace uwyo -- hide
