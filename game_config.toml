@@ -1,10 +1,10 @@
-name = "Rational number game"
+name = "Integer number game"
 version = "0.1.0"
 extra_files = "extras"
 intro = "src/game/intro.lean"
 
 [[worlds]]
-name = "Basic"
+name = "Definitions"
 id = 1
 levels = [
 	"src/game/basic/level01.lean",
@@ -13,7 +13,7 @@ levels = [
 ]
 
 [[worlds]]
-name = "Sums"
+name = "Operations"
 id = 2
 parents = [1]
 levels = [
@@ -21,7 +21,7 @@ levels = [
 ]
 
 [[worlds]]
-name = "Products"
+name = "Algebraic Structure"
 id = 3
 parents = [1]
 levels = [
