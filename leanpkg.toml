@@ -1,0 +1,8 @@
+[package]
+name = "uw-rational-number-game"
+version = "0.1"
+lean_version = "leanprover-community/lean:3.18.4"
+path = "src"
+
+[dependencies]
+mathlib = {git = "https://github.com/leanprover-community/mathlib", rev = "7a93d87c661e8e1af6bebaa5c4fa3bb92f88167e"}

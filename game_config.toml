@@ -1,0 +1,24 @@
+name = "Rational number game"
+version = "0.1.0"
+extra_files = "extras"
+intro = "src/game/intro.lean"
+
+[[worlds]]
+name = "Basic"
+id = 1
+levels = [
+	"src/game/basic/level01.lean",
+	"src/game/basic/level02.lean"
+
+]
+
+[[worlds]]
+name = "Sums"
+id = 2
+parents = [1]
+levels = [
+	"src/game/sums/level01.lean",
+	"src/game/sums/level02.lean"
+]
+
+
