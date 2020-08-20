@@ -17,8 +17,15 @@ name = "Sums"
 id = 2
 parents = [1]
 levels = [
-	"src/game/sums/level01.lean",
-	"src/game/sums/level02.lean"
+	"src/game/sums/level01.lean"
+]
+
+[[worlds]]
+name = "Products"
+id = 3
+parents = [1]
+levels = [
+	"src/game/products/level01.lean"
 ]
 
 

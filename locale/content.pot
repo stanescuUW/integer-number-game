@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1.0\n"
-"POT-Creation-Date: 2020-08-20 13:41:56.160943\n"
+"POT-Creation-Date: 2020-08-20 14:42:12.019218\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 
@@ -52,17 +52,19 @@ msgid ""
 "class with me, or bump into me somewhere\n"
 "on the UWyo campus.\n"
 "\n"
-"The Rational Number Game is brought to you by the UWyo Proof Games project.\n"
+"The Rational Number Game is brought to you by the Proof Games project at the "
+"University of Wyoming, \n"
+"which aims to develop interactive tools for teaching and learning "
+"undergraduate mathematics.\n"
 "\n"
-"Prove a theorem. Write a function. <a href=\"https://twitter.com/XenaProject"
-"\" target=\"blank\">@XenaProject</a>.\n"
+"Prove a theorem. Write a function. Learn more mathematics while having fun.\n"
 msgstr ""
 
 #: world_config
 msgid "Basic"
 msgstr ""
 
-#: Basic level 1 2 Sums
+#: Basic level 1
 msgid ""
 "# Chapter 1 : Basic facts\n"
 "\n"
@@ -70,6 +72,7 @@ msgid ""
 "\n"
 "In this level you need to prove that `sqrt 2` is irrational.\n"
 "This is adapted from a similar proof from chapter 2 of \"logic and Proof\"\n"
+"by J. Avigad, R. Y. Lewis and F. van Doorn, freely available online.\n"
 msgstr ""
 
 #: Basic level 1
@@ -78,20 +81,50 @@ msgid ""
 "$$ a^2 = 2 b^2.$$\n"
 msgstr ""
 
-#: Basic level 2 Sums 1
-msgid "-- Try to remove the three `sorry` in the last lemma below"
-msgstr ""
-
-#: Basic level 2 Sums 1
-msgid "-- You may need to do it on paper first"
-msgstr ""
-
-#: Basic level 2 Sums 1
+#: Basic level 2
 msgid ""
-"For any two arbitrary natural numbers $a$ and $b$, it is not true that\n"
-"$$ a^2 = 2 b^2$$.\n"
+"# Chapter 1 : Basic facts\n"
+"\n"
+"## Level 2\n"
+"\n"
+"In this level you need to prove a slightly different statement\n"
+"of the fact that `sqrt 2` is irrational. This will require you to work more "
+"closely\n"
+"with Lean's tools for handling rationals.\n"
+msgstr ""
+
+#: Basic level 2
+msgid "There doesn't exist a rational number `r` such that `r ^ 2 = 2`.\n"
 msgstr ""
 
 #: world_config
 msgid "Sums"
+msgstr ""
+
+#: Sums level 1
+msgid ""
+"# Chapter 2 : Sums\n"
+"\n"
+"## Level 1\n"
+"\n"
+msgstr ""
+
+#: Sums level 1
+msgid "There are irrational numbers that sum up to a rational.\n"
+msgstr ""
+
+#: world_config
+msgid "Products"
+msgstr ""
+
+#: Products level 1
+msgid ""
+"# Chapter 3 : Products\n"
+"\n"
+"## Level 1\n"
+"\n"
+msgstr ""
+
+#: Products level 1
+msgid "The product of a rational and an irrational number may be a rational.\n"
 msgstr ""
