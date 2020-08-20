@@ -12,6 +12,7 @@ namespace uwyo -- hide
 
 In this level you need to prove that `sqrt 2` is irrational.
 This is adapted from a similar proof from chapter 2 of "logic and Proof"
+by J. Avigad, R. Y. Lewis and F. van Doorn, freely available online.
 -/
 
 

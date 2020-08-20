@@ -28,7 +28,8 @@ You can ask questions on the <a href="https://leanprover.zulipchat.com/" target=
 where I am often to be found. You can also ask me questions if you take a class with me, or bump into me somewhere
 on the UWyo campus.
 
-The Rational Number Game is brought to you by the UWyo Proof Games project.
+The Rational Number Game is brought to you by the Proof Games project at the University of Wyoming, 
+which aims to develop interactive tools for teaching and learning undergraduate mathematics.
 
-Prove a theorem. Write a function. <a href="https://twitter.com/XenaProject" target="blank">@XenaProject</a>.
+Prove a theorem. Write a function. Learn more mathematics while having fun.
 -/
